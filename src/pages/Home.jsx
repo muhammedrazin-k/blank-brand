@@ -18,7 +18,7 @@ const useReveal = () => {
 };
 
 const Home = () => {
-  const WHATSAPP = "9645636873";
+  const WHATSAPP = "9048767870";
 
   // ================= HERO BACKGROUND CAROUSEL =================
   const heroImages = [
