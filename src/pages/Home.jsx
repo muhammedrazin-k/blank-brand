@@ -77,7 +77,7 @@ const Home = () => {
         className="relative h-screen flex items-center justify-start px-10"
         style={{
           backgroundImage: `url(${heroImages[current]})`,
-          backgroundSize: "fit",
+          backgroundSize: "cover",
           backgroundPosition: "center",
           transition: "background-image 1s ease-in-out",
         }}
