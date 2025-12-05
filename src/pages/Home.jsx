@@ -52,17 +52,57 @@ const Home = () => {
     {
       id: 3,
       name: "Oversized Grey Tee",
-      img: "/dress-3.jpeg",
+      img: "/dress-2.jpeg",
     },
     {
       id: 4,
       name: "Streetwear Beige Tee",
-      img: "/dress-6.jpeg",
+      img: "/dress-3.jpeg",
+    },
+    {
+      id: 5,
+      name: "Jet Black Premium Tee",
+      img: "dress-5.jpeg",
+    },
+    {
+      id: 5,
+      name: "Jet Black Premium Tee",
+      img: "dress-6.jpeg",
+    },
+    {
+      id: 5,
+      name: "Jet Black Premium Tee",
+      img: "dress-7.jpeg",
+    },
+    {
+      id: 5,
+      name: "Jet Black Premium Tee",
+      img: "dress-8.jpeg",
     },
     {
       id: 5,
       name: "Jet Black Premium Tee",
       img: "dress-9.jpeg",
+    },
+    {
+      id: 5,
+      name: "Jet Black Premium Tee",
+      img: "dress-10.jpeg",
+    },
+    {
+      id: 5,
+      name: "Jet Black Premium Tee",
+      img: "dress-11.jpeg",
+    },
+    {
+      id: 5,
+      name: "Jet Black Premium Tee",
+      img: "dress-12.jpeg",
+    },
+    {
+      id: 5,
+      name: "Jet Black Premium Tee",
+      img: "dress-13.jpeg",
     },
     {
       id: 6,
