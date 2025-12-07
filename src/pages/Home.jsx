@@ -41,42 +41,42 @@ const Home = () => {
   const tshirts = [
     {
       id: 1,
-      name: "Classic Black Tee",
+      name: "Classic Rounded black",
       img: "/dress-1.jpeg",
     },
     {
       id: 2,
-      name: "Minimal White Tee",
+      name: "Minimal plain half",
       img: "/dress-4.jpeg",
     },
     {
       id: 3,
-      name: "Oversized Grey Tee",
+      name: "Minimal black Town",
       img: "/dress-2.jpeg",
     },
     {
       id: 4,
-      name: "Streetwear Beige Tee",
+      name: "Streetwear Beige T",
       img: "/dress-3.jpeg",
     },
     {
       id: 5,
-      name: "Jet Black Premium Tee",
+      name: "Jet White Premium Tee",
       img: "dress-5.jpeg",
     },
     {
       id: 5,
-      name: "Jet Black Premium Tee",
+      name: "Visuzlize Premium Tee",
       img: "dress-6.jpeg",
     },
     {
       id: 5,
-      name: "Jet Black Premium Tee",
+      name: "fire Rose blank",
       img: "dress-7.jpeg",
     },
     {
       id: 5,
-      name: "Jet Black Premium Tee",
+      name: "Future Club Max",
       img: "dress-8.jpeg",
     },
     {
@@ -86,27 +86,27 @@ const Home = () => {
     },
     {
       id: 5,
-      name: "Jet Black Premium Tee",
+      name: "1964 White War",
       img: "dress-10.jpeg",
     },
     {
       id: 5,
-      name: "Jet Black Premium Tee",
+      name: " Grass blank premium",
       img: "dress-11.jpeg",
     },
     {
       id: 5,
-      name: "Jet Black Premium Tee",
+      name: "Red Blank Premium Tee",
       img: "dress-12.jpeg",
     },
     {
       id: 5,
-      name: "Jet Black Premium Tee",
+      name: " Premium Future Club",
       img: "dress-13.jpeg",
     },
     {
       id: 6,
-      name: "Cream Relaxed Fit Tee",
+      name: "ligh Relaxed Fit Tee",
       img: "https://images.unsplash.com/photo-1523381294911-8d3cead13475",
     },
   ];
@@ -147,12 +147,17 @@ const Home = () => {
         <h2 className="text-3xl md:text-4xl font-semibold mb-6">About BLANK</h2>
 
         <p className="text-gray-300 text-lg leading-relaxed max-w-3xl mx-auto">
-          BLANK is a modern essentials brand inspired by global fashion labels
-          like H&M, Uniqlo, Allen Solly, and Zara.
+          BLANK is a modern essentials company built with a simple purpose: to
+          redefine everyday wear through timeless design and premium
+          craftsmanship.
           <br /> <br />
-          We focus on timeless silhouettes, premium fabrics, natural tones, and
-          clean minimal aesthetics. Our mission is to create everyday pieces
-          that make you feel confident, comfortable, and effortlessly stylish.
+          We believe clothing should feel effortless — made from quality
+          materials, clean silhouettes, and natural tones that never go out of
+          style. Every piece is designed with intention, blending comfort,
+          durability, and minimal aesthetics for people who value both
+          simplicity and confidence. At BLANK, our mission is to create
+          essentials that become a natural part of your daily life — pieces you
+          can trust, wear often, and feel good in.
         </p>
       </section>
 
